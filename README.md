@@ -1,3 +1,3 @@
 # carousel-task-zuri
 This a task to create a carousel/slide  using html, CSS and JavaScript
-[The page is live @](https://edemessang.github.io/carousel-task-zuri)
+[click here to go to hosted page](https://edemessang.github.io/carousel-task-zuri)
